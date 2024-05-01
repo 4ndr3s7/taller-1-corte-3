@@ -5,16 +5,16 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "punto1":  "node  punto1/punto1.js",
-    "punto2":  "node  punto2/punto2.js",
-    "punto3":  "node  punto3/punto3.js",
-    "punto4":  "node  punto4/punto4.js",
-    "punto5":  "node  punto5/punto5.js",
-    "punto6":  "node  punto6/punto6.js",
-    "punto7":  "node  punto7/punto7.js",
-    "punto8":  "node  punto8/punto8.js",
-    "punto9":  "node  punto9/punto9.js",
-    "punto10":  "node punto10/punto10.js"
+    "punto1":  "node  punto1.js",
+    "punto2":  "node  punto2.js",
+    "punto3":  "node  punto3.js",
+    "punto4":  "node  punto4.js",
+    "punto5":  "node  punto5.js",
+    "punto6":  "node  punto6.js",
+    "punto7":  "node  punto7.js",
+    "punto8":  "node  punto8.js",
+    "punto9":  "node  punto9.js",
+    "punto10":  "node punto10.js"
 
 
 
